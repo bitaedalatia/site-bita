@@ -119,9 +119,9 @@ header {
 
 
 
- .img-responsive {
-            box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.5);
-        }
+.img-responsive {
+    box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.5);
+}
 
 .content-little-image > div {
     display: block;
@@ -178,24 +178,22 @@ header {
         margin: 10px;
     }
 
-    .carousel-caption  {
-        font-size: 100px;
-         color: #F70838;
-    }
+.carousel-caption {
+    font-size: 100px;
+    color: #F70838;
+}
 
-    #contact-foorm {
-        border-color: black;
-        color: black;
-        
-    }
+#contact-foorm {
+    border-color: black;
+    color: black;
+}
 
 footer {
     display: block;
     float: left;
     position: relative;
-   
     width: 100%;
-    padding:54px 0px;
+    padding: 54px 0px;
     background-color: black;
 }
 
@@ -239,14 +237,15 @@ footer a {
     color: #8F0000;
 }
 
-footer a:link {
-    text-decoration: none;
-    color: #8F0000;
-}
-footer a:hover {
-    text-decoration: none;
-    color: #ffffff;
-}
+    footer a:link {
+        text-decoration: none;
+        color: #8F0000;
+    }
+
+    footer a:hover {
+        text-decoration: none;
+        color: #ffffff;
+    }
 
 .footer-menu a {
     display: block;
@@ -258,24 +257,52 @@ footer a:hover {
     border-right: 1px solid #ffffff;
 }
 
-#btn-send:hover{
-    color:red;
-    background-color:#ffffff;
+#btn-send:hover {
+    color: red;
+    background-color: #ffffff;
 }
 
-.copy-right{
-    display:block;
-    margin:10px;
+.copy-right {
+    display: block;
+    margin: 10px;
     /*padding:10px 10px;*/
-    color:black;
+    color: black;
 }
-.copy-right a{
-    padding-left:10px;
-    padding-right:10px;
-    color:black;
-    border-left: 2px solid black;
+
+    .copy-right a {
+        padding-left: 10px;
+        padding-right: 10px;
+        color: black;
+        border-left: 2px solid black;
+    }
+
+        .copy-right a:hover {
+            text-decoration: none;
+            color: #ffffff;
+        }
+/*....................new...................*/
+.my-table {
+    border: 1px solid red;
 }
-.copy-right a:hover{
-    text-decoration:none;
-    color:#ffffff;
+
+    .my-table th {
+        background: red;
+    }
+
+.nav {
+    background-color: black;
+}
+
+.nav-tabs {
+    border-bottom: 0px solid #DDD;
+    font-size: 20px;
+}
+
+.img-responsive {
+    box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.5);
+}
+
+.img-heart {
+    width: 316px;
+    height: 200px;
 }
