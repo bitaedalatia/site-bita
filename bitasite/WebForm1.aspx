@@ -3,8 +3,7 @@
 <head>
     <link rel="stylesheet" type="text/css" href="Style/StyleSheet1.css" />
     <link rel="stylesheet" type="text/css" href="lib/bootstrap-3.3.5/dist/css/bootstrap.css" />
-    <link rel="stylesheet" type="text/css" href="lib/font-awesome-4.6.3/css/font-awesome.css" />
-    <%--http://fontawesome.io/--%>
+    <link rel="stylesheet" type="text/css" href="lib/font-awesome-4.6.3/css/font-awesome.css" />"
     <script type="text/javascript" src="lib/jquery-1.11.3.min.js"></script>
     <script type="text/javascript" src="lib/bootstrap-3.3.5/dist/js/bootstrap.js"></script>
     <link rel="author" href="https://plus.google.com/+Startbootstrap">
@@ -75,6 +74,15 @@
                         <div class="item">
                             <img src="img/slide1-2.jpg" alt="...">
                             <div class="carousel-caption " style="color: red; font-size: 100px;">
+<<<<<<< HEAD
+=======
+                                Sin City Movie
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/slide4.jpg" alt="...">
+                            <div class="carousel-caption " style="color: red; font-size: 100px;">
+>>>>>>> 531f74234296423b730f4a27c176157d4ff8b0d7
                                 Sin City Movie
                             </div>
 
@@ -127,7 +135,11 @@
                     <!-- Projects Row -->
                     <div class="container">
                     <div class="row">
+<<<<<<< HEAD
                  <div class="col-md-4 ">
+=======
+                        <div class="col-md-4">
+>>>>>>> 531f74234296423b730f4a27c176157d4ff8b0d7
                             <a href=" #">
                                 <img class="img-responsive" style="width:360px" src="img/L1.jpg" alt="">
                             </a>
@@ -173,7 +185,11 @@
                                ,as well as by IGN...<a href="#">More</a> </p>
 
                         </div>
+<<<<<<< HEAD
                         <div class="col-md-4  ">
+=======
+                        <div class="col-md-4">
+>>>>>>> 531f74234296423b730f4a27c176157d4ff8b0d7
                             <a href="#">
                                 <img class="img-responsive" style="width: 360px" src="img/L2.jpg" alt="">
                             </a>
@@ -183,7 +199,11 @@
                             <p>Nancy Callahan is a nk Miller.She first appeared in"The Hard Goodbye".... <a href="#">More</a> </p>
                         </div>
 
+<<<<<<< HEAD
                         <div class="col-md-4 ">
+=======
+                        <div class="col-md-4">
+>>>>>>> 531f74234296423b730f4a27c176157d4ff8b0d7
                             <a href="#">
                                 <img class="img-responsive" style="width:360px" src="img/L3.jpg" alt="">
                             </a>
@@ -197,7 +217,11 @@
                     <!--Row 2-->
                     <hr />
                     <!-- Row 3 -->
+<<<<<<< HEAD
 
+=======
+                    <div class="container">
+>>>>>>> 531f74234296423b730f4a27c176157d4ff8b0d7
                     <div class="row">
                         <div class="col-md-6 portfolio-item">
                             <a href="#">
@@ -212,6 +236,7 @@
                             <p>Sin City is a 2005 American neo-noir crime thriller anthology film written, produced, and directed by Frank Miller and Robert Rodriguez. It is based on Miller's graphic novel Sin City. Much of the film is based on the first, third and fourth books in Miller's original comic series. The Hard Goodbye is about a man who embarks on a brutal rampage in search of his one-time sweetheart's killer, killing anyone, even the police, that gets in his way of finding and killing her murderer.The Big Fat Kill focuses on an everyman getting caught in a street war between a group of prostitutes and a group of mercenaries, the police and the mob... ...<a href="#">More</a> </p>
                         </div>
                     </div>
+                        </div>
                 </div>
 
                 <!-- Pagination -->
@@ -300,6 +325,7 @@
                         </div>
                         <div class="row">
                             <div class="col-md-1 col-md-offset-3">
+<<<<<<< HEAD
                                 <a href="#"<abbr title="FaceBook"><i class="fa fa-facebook" aria-hidden="true"></i></abbr></a>
                             </div>
                             <div class="col-md-1">
@@ -310,6 +336,18 @@
                             </div>
                             <div class="col-md-1">
                                 <a href="https://www.linkedin.com"<abbr title="Linkedin"><i class="fa fa-linkedin-square" aria-hidden="true"></i></abbr></a>
+=======
+                                <a href="#"<abbr title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></abbr></a>
+                            </div>
+                            <div class="col-md-1">
+                                <a href="#"<abbr title="Twitter"><i class="fa fa-twitter-square" aria-hidden="true"></i></abbr></a>
+                            </div>
+                            <div class="col-md-1">
+                                <a href="#"<abbr title="Google+"><i class="fa fa-google-plus" aria-hidden="true"></i></abbr></a>
+                            </div>
+                            <div class="col-md-1">
+                                <a href="#"<abbr title="Linkedin"><i class="fa fa-linkedin-square" aria-hidden="true"></i></abbr></a>
+>>>>>>> 531f74234296423b730f4a27c176157d4ff8b0d7
                             </div>
                             <div class="col-md-1">
                                 <a href="#"<abbr title="RSS"><i class="fa fa-rss" aria-hidden="true"></i></abbr></a>

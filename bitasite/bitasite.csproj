@@ -62,12 +62,18 @@
     <Content Include="img\L2.jpg" />
     <Content Include="img\L3.jpg" />
     <Content Include="img\L4.jpg" />
+<<<<<<< HEAD
     <Content Include="img\miller.jpg" />
     <Content Include="img\miller2.jpg" />
     <Content Include="img\slide.jpg" />
     <Content Include="img\slide1-2.jpg" />
     <Content Include="img\slide1.jpg" />
     <Content Include="img\slide2.jpg" />
+=======
+    <Content Include="img\slide.jpg" />
+    <Content Include="img\slide1-2.jpg" />
+    <Content Include="img\slide1.jpg" />
+>>>>>>> 531f74234296423b730f4a27c176157d4ff8b0d7
     <Content Include="img\slide3.jpg" />
     <Content Include="img\slide4.jpg" />
     <Content Include="img\slide5.jpg" />
@@ -243,7 +249,10 @@
     <Content Include="lib\bootstrap-3.3.5\dist\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="lib\bootstrap-3.3.5\dist\js\bootstrap.js" />
     <Content Include="lib\bootstrap-3.3.5\dist\js\bootstrap.min.js" />
+<<<<<<< HEAD
     <Content Include="lib\bootstrap-3.3.5\dist\js\npm.js" />
+=======
+>>>>>>> 531f74234296423b730f4a27c176157d4ff8b0d7
     <Content Include="lib\bootstrap-3.3.5\docs\about.html" />
     <Content Include="lib\bootstrap-3.3.5\docs\apple-touch-icon.png" />
     <Content Include="lib\bootstrap-3.3.5\docs\assets\brand\bootstrap-outline.svg" />
